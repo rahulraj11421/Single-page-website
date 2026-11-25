@@ -1,0 +1,21 @@
+{
+  "name": "Mora",
+  "slug": "mora-jp",
+  "url": "https://mora.jp/",
+  "category": "music",
+  "description": "Sony Music Solutions official high-resolution music storefront carrying extensive Aniplex and SACRA MUSIC catalogs.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "LOSSLESS"
+  ],
+  "features": [
+    "Lossless",
+    "Official OST"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-27",
+  "status": "active"
+}

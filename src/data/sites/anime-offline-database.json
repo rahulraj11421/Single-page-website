@@ -1,0 +1,22 @@
+{
+  "name": "Anime Offline Database",
+  "slug": "anime-offline-database",
+  "url": "https://github.com/manami-project/anime-offline-database",
+  "category": "tools",
+  "description": "Weekly updated open-source JSON cross-reference linking IDs across AniList, MyAnimeList, AniDB, and Kitsu.",
+  "rank": 5,
+  "tags": [
+    "OPEN-SOURCE",
+    "FREE"
+  ],
+  "features": [
+    "Open source",
+    "No account",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-18",
+  "status": "active"
+}

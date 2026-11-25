@@ -1,0 +1,23 @@
+{
+  "name": "AnimeLab",
+  "slug": "animelab",
+  "url": "https://www.animelab.com/",
+  "category": "anime",
+  "description": "Beloved Australian and New Zealand anime streaming service operated by Madman Anime Group before migrating into Funimation.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Soft-sub",
+    "Dub friendly",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "status": "dead",
+  "closedNote": "Retired in December 2021 after transitioning subscribers to Funimation ANZ."
+}

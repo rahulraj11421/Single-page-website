@@ -1,0 +1,23 @@
+{
+  "name": "Manta",
+  "slug": "manta",
+  "url": "https://manta.net/",
+  "category": "manhwa",
+  "description": "RIDI subscription-based webcomic platform offering unlimited access to curated manhwa libraries without per-episode coins.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Vertical scroll",
+    "Mobile app",
+    "Modern UI",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-17",
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BOOTH (pixiv)",
+  "slug": "booth-pm",
+  "url": "https://booth.pm/en",
+  "category": "download",
+  "description": "pixiv official creator marketplace for purchasing DRM-free digital doujinshi, artbooks, soundtracks, and 3D VTuber assets.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "HUB"
+  ],
+  "features": [
+    "DRM-free",
+    "High-res",
+    "Direct download",
+    "Creator direct"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-16",
+  "status": "active"
+}

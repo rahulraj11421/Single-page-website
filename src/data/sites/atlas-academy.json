@@ -1,0 +1,25 @@
+{
+  "name": "GamePress / Atlas Academy",
+  "slug": "atlas-academy",
+  "url": "https://apps.atlasacademy.io/db/",
+  "category": "gacha",
+  "description": "Fast, open-source datamined skill, servant, and event lookup database for Fate/Grand Order across NA and JP servers.",
+  "rank": 3,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Banner planner",
+    "Wiki & DB",
+    "Free tier",
+    "Modern UI",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-25",
+  "status": "active"
+}

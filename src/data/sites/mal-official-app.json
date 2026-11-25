@@ -1,0 +1,22 @@
+{
+  "name": "MyAnimeList Official App",
+  "slug": "mal-official-app",
+  "url": "https://myanimelist.net/app",
+  "category": "apps",
+  "description": "Official iOS and Android client for managing your MyAnimeList anime/manga progress, seasonal lists, and discussions.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "iOS & Android",
+    "Modern UI",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-11",
+  "status": "active"
+}

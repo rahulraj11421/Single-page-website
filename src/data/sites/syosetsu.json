@@ -1,0 +1,21 @@
+{
+  "name": "Syosetsu (Shosetsuka ni Naro)",
+  "slug": "syosetsu",
+  "url": "https://syosetsu.com/",
+  "category": "novel",
+  "description": "Japan largest user-generated web novel portal where numerous modern light novel and anime hits originated.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "FREE",
+    "HUB"
+  ],
+  "features": [
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-20",
+  "status": "active"
+}

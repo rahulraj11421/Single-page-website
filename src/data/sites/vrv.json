@@ -1,0 +1,23 @@
+{
+  "name": "VRV",
+  "slug": "vrv",
+  "url": "https://vrv.co/",
+  "category": "anime",
+  "description": "Multi-channel streaming bundle uniting Crunchyroll, HIDIVE, Rooster Teeth, and Mondo under one interface.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Soft-sub",
+    "Dub friendly",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "status": "dead",
+  "closedNote": "Shut down in May 2023 as Crunchyroll consolidated its streaming products."
+}

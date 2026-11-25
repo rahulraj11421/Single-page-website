@@ -1,0 +1,23 @@
+{
+  "name": "AniList Activity & Forums",
+  "slug": "anilist-forums",
+  "url": "https://anilist.co/forum/overview",
+  "category": "forums",
+  "description": "Clean threaded forums for media discussions, site recommendations, and API developer threads.",
+  "rank": 3,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Episode threads",
+    "Moderated",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-06",
+  "status": "active"
+}

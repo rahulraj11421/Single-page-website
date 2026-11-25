@@ -1,0 +1,20 @@
+{
+  "name": "Yen Press",
+  "slug": "yen-press",
+  "url": "https://yenpress.com/",
+  "category": "novel",
+  "description": "Major North American publisher of light novels, Yen On imprints, and print/digital Japanese prose translations.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "HUB"
+  ],
+  "features": [
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-14",
+  "status": "active"
+}

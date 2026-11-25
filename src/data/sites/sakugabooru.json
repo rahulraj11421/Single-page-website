@@ -1,0 +1,22 @@
+{
+  "name": "Sakugabooru",
+  "slug": "sakugabooru",
+  "url": "https://www.sakugabooru.com/",
+  "category": "guides",
+  "description": "Curated archival reference of notable anime animation cuts tagged by key animator, episode director, and technique.",
+  "rank": 3,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Free tier",
+    "No account",
+    "Editorial"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-03",
+  "status": "active"
+}

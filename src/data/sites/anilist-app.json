@@ -1,0 +1,24 @@
+{
+  "name": "AniList Mobile & Web PWA",
+  "slug": "anilist-app",
+  "url": "https://anilist.co/apps",
+  "category": "apps",
+  "description": "Official ecosystem of AniList third-party and mobile companion apps built on the public AniList GraphQL API.",
+  "rank": 1,
+  "tags": [
+    "MODERN-UI",
+    "OPEN-SOURCE",
+    "HUB"
+  ],
+  "features": [
+    "iOS & Android",
+    "Open source",
+    "Modern UI",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-25",
+  "status": "active"
+}

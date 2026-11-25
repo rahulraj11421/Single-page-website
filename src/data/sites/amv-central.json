@@ -1,0 +1,21 @@
+{
+  "name": "AMV Central",
+  "slug": "amv-central",
+  "url": "https://www.amvcentral.com/",
+  "category": "amv",
+  "description": "Editor-focused resource hub hosting contest calendars, editing guides, and featured MEP/AMV spotlights.",
+  "rank": 5,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Contest archive",
+    "Editorial",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-15",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JAST USA",
+  "slug": "jast-usa",
+  "url": "https://jastusa.com/",
+  "category": "games",
+  "description": "Long-running North American publisher offering DRM-free localized visual novels from Nitroplus, 07th Expansion, and more.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "18+"
+  ],
+  "features": [
+    "DRM-free",
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": true,
+  "icon": "",
+  "dateAdded": "2026-02-28",
+  "status": "active"
+}

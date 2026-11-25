@@ -1,0 +1,23 @@
+{
+  "name": "Muse Asia",
+  "slug": "muse-asia",
+  "url": "https://www.youtube.com/@MuseAsia",
+  "category": "anime",
+  "description": "Official Muse Communication YouTube channel providing free, ad-supported licensed simulcasts across Asia-Pacific.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "FREE",
+    "SIMULCAST"
+  ],
+  "features": [
+    "Soft-sub",
+    "Simulcast",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-16",
+  "status": "active"
+}

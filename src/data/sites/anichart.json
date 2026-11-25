@@ -1,0 +1,24 @@
+{
+  "name": "AniChart",
+  "slug": "anichart",
+  "url": "https://anichart.net/",
+  "category": "schedule",
+  "description": "Official AniList seasonal airing companion displaying upcoming episodes, countdown timers, and list status badges.",
+  "rank": 2,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Live countdown",
+    "Timezone sync",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-11",
+  "status": "active"
+}

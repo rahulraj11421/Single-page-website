@@ -1,0 +1,25 @@
+{
+  "name": "Kuro / Blue Archive SchaleDB",
+  "slug": "schaledb",
+  "url": "https://schaledb.com/",
+  "category": "gacha",
+  "description": "Precision damage calculator, banner planner, and multi-region student database for Blue Archive.",
+  "rank": 5,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Banner planner",
+    "Wiki & DB",
+    "Free tier",
+    "Modern UI",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-19",
+  "status": "active"
+}

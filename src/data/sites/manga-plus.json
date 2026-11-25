@@ -1,0 +1,26 @@
+{
+  "name": "MANGA Plus by SHUEISHA",
+  "slug": "manga-plus",
+  "url": "https://mangaplus.shueisha.co.jp/",
+  "category": "manga",
+  "description": "Shueisha official global reader delivering simultaneous Weekly Shonen Jump and Jump+ chapters free on release day.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "SIMULPUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Simulpub",
+    "Free tier",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-08",
+  "dateUpdated": "2026-11-20",
+  "status": "active"
+}

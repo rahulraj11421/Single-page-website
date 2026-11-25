@@ -1,0 +1,24 @@
+{
+  "name": "Prydwen Institute",
+  "slug": "prydwen",
+  "url": "https://www.prydwen.gg/",
+  "category": "gacha",
+  "description": "Clean, data-driven character guides, build calculators, and tier lists for Honkai: Star Rail, Zenless Zone Zero, Wuthering Waves, and Nikke.",
+  "rank": 1,
+  "tags": [
+    "MODERN-UI",
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Wiki & DB",
+    "Free tier",
+    "Modern UI",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-23",
+  "status": "active"
+}

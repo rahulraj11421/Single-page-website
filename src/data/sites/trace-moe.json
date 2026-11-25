@@ -1,0 +1,25 @@
+{
+  "name": "Trace.moe",
+  "slug": "trace-moe",
+  "url": "https://trace.moe/",
+  "category": "tools",
+  "description": "Reverse anime screenshot search engine that identifies the exact series, episode, and timestamp from a single video frame.",
+  "rank": 2,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Open source",
+    "No account",
+    "Modern UI",
+    "API available",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-07",
+  "status": "active"
+}

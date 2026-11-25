@@ -1,0 +1,25 @@
+{
+  "name": "r/manga",
+  "slug": "r-manga",
+  "url": "https://www.reddit.com/r/manga/",
+  "category": "forums",
+  "description": "High-activity manga and manhwa discussion community tracking chapter releases, licensing news, and series recommendations.",
+  "rank": 5,
+  "tags": [
+    "HUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Episode threads",
+    "Moderated",
+    "Free tier",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-15",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TokuSHOUTsu",
+  "slug": "tokushoutsu",
+  "url": "https://www.shoutfactorytv.com/tokushoutsu",
+  "category": "drama",
+  "description": "Shout! Studios official free streaming channel dedicated to Super Sentai, Kamen Rider, Ultraman, and tokusatsu classics.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "FREE",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-19",
+  "status": "active"
+}

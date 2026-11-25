@@ -1,0 +1,24 @@
+{
+  "name": "DLsite",
+  "slug": "dlsite",
+  "url": "https://www.dlsite.com/home/",
+  "category": "download",
+  "description": "Japanese digital creator storefront offering DRM-free doujin games, voice works, manga, and indie illustrations.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "18+"
+  ],
+  "features": [
+    "DRM-free",
+    "Direct download",
+    "Creator direct",
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": true,
+  "icon": "",
+  "dateAdded": "2026-02-20",
+  "status": "active"
+}

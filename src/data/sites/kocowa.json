@@ -1,0 +1,24 @@
+{
+  "name": "KOCOWA+",
+  "slug": "kocowa",
+  "url": "https://www.kocowa.com/",
+  "category": "drama",
+  "description": "Joint streaming service by KBS, MBC, and SBS delivering next-day Korean dramas, variety shows, and K-pop broadcasts.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "SIMULCAST",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Soft-sub",
+    "Modern UI",
+    "Mobile app",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-05",
+  "status": "active"
+}

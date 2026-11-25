@@ -1,0 +1,23 @@
+{
+  "name": "Kitsu",
+  "slug": "kitsu",
+  "url": "https://kitsu.app/",
+  "category": "database",
+  "description": "Social-first anime and manga tracker featuring reaction feeds, episode progress sync, and an open JSON:API.",
+  "rank": 3,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "API available",
+    "Modern UI",
+    "List tracking",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-29",
+  "status": "active"
+}

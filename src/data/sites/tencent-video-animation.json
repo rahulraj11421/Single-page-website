@@ -1,0 +1,22 @@
+{
+  "name": "Tencent Video Animation",
+  "slug": "tencent-video-animation",
+  "url": "https://www.youtube.com/@TencentVideoAnimation",
+  "category": "donghua",
+  "description": "Official YouTube distribution channel for Tencent Penguin Pictures donghua releases with full episodes and trailers.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-14",
+  "status": "active"
+}

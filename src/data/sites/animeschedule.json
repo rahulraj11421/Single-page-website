@@ -1,0 +1,24 @@
+{
+  "name": "AnimeSchedule.net",
+  "slug": "animeschedule",
+  "url": "https://animeschedule.net/",
+  "category": "schedule",
+  "description": "Dedicated weekly broadcast calendar separating Japanese raw airings, English sub simulcasts, and dubbed episode drops.",
+  "rank": 3,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Live countdown",
+    "Timezone sync",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-19",
+  "status": "active"
+}

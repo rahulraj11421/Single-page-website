@@ -1,0 +1,24 @@
+{
+  "name": "MyAnimeList",
+  "slug": "myanimelist",
+  "url": "https://myanimelist.net/",
+  "category": "database",
+  "description": "The largest English-language anime and manga community catalog with user scores, reviews, voice actor credits, and seasonal archives.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "API available",
+    "List tracking",
+    "Staff credits",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-05",
+  "status": "active"
+}

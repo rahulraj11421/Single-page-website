@@ -1,0 +1,24 @@
+{
+  "name": "AnimeMusicQuiz (AMQ)",
+  "slug": "animemusicquiz",
+  "url": "https://animemusicquiz.com/",
+  "category": "quiz",
+  "description": "Multiplayer trivia game that streams openings, endings, and insert songs synced to your personal anime list.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Multiplayer",
+    "Free tier",
+    "Audio quiz",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-30",
+  "status": "active"
+}

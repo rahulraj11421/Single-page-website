@@ -1,0 +1,22 @@
+{
+  "name": "AniDB",
+  "slug": "anidb",
+  "url": "https://anidb.net/",
+  "category": "database",
+  "description": "Non-profit technical encyclopedia cataloging release histories, studio credits, episode titles, and detailed staff roles since 2002.",
+  "rank": 4,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "API available",
+    "Staff credits",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-12",
+  "status": "active"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "AnimeKarmaList",
+  "slug": "animekarmalist",
+  "url": "https://animekarmalist.com/",
+  "category": "trends",
+  "description": "Automated tracker visualizing weekly r/anime episode discussion karma and popularity trajectories per season.",
+  "rank": 5,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Weekly charts",
+    "Free tier",
+    "Modern UI",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-21",
+  "status": "active"
+}

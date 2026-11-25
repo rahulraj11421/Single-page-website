@@ -1,0 +1,22 @@
+{
+  "name": "AsianCrush",
+  "slug": "asiancrush",
+  "url": "https://www.asiancrush.com/",
+  "category": "drama",
+  "description": "Cinedigm ad-supported and subscription platform streaming licensed Japanese, Korean, and Chinese films and dramas.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-15",
+  "status": "active"
+}

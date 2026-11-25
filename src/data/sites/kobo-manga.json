@@ -1,0 +1,20 @@
+{
+  "name": "Kobo Rakuten (Manga)",
+  "slug": "kobo-manga",
+  "url": "https://www.kobo.com/us/en/ebooks/manga",
+  "category": "download",
+  "description": "Global e-reader storefront stocking official English and Japanese manga volumes with offline desktop and reader downloads.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Direct download",
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-06-02",
+  "status": "active"
+}

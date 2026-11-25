@@ -1,0 +1,23 @@
+{
+  "name": "MyAnimeList Forums",
+  "slug": "mal-forums",
+  "url": "https://myanimelist.net/forum/",
+  "category": "forums",
+  "description": "Dedicated series-by-series episode boards, manga discussion clubs, and recommendation threads integrated with user lists.",
+  "rank": 2,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Episode threads",
+    "Moderated",
+    "Free tier",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-21",
+  "status": "active"
+}

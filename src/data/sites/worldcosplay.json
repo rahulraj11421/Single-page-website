@@ -1,0 +1,20 @@
+{
+  "name": "WorldCosplay",
+  "slug": "worldcosplay",
+  "url": "https://worldcosplay.net/",
+  "category": "cosplay",
+  "description": "International community showcase indexing character cosplay photography by series, photographer, and creator.",
+  "rank": 3,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-11",
+  "status": "active"
+}

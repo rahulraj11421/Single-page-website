@@ -1,0 +1,24 @@
+{
+  "name": "iQIYI Anime",
+  "slug": "iqiyi-anime",
+  "url": "https://www.iq.com/",
+  "category": "donghua",
+  "description": "Global streaming platform hosting original iQIYI donghua adaptations alongside licensed East Asian animation.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-02",
+  "status": "active"
+}

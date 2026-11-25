@@ -1,0 +1,21 @@
+{
+  "name": "AnimeSuki Forums",
+  "slug": "animesuki-forums",
+  "url": "https://forums.animesuki.com/",
+  "category": "forums",
+  "description": "Classic enthusiast forum dedicated to deep-dive series threads, studio discussions, and long-form manga analysis.",
+  "rank": 4,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Episode threads",
+    "Moderated",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-30",
+  "status": "active"
+}

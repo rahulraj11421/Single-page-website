@@ -1,0 +1,25 @@
+{
+  "name": "J-Novel Club",
+  "slug": "j-novel-club",
+  "url": "https://j-novel.club/",
+  "category": "novel",
+  "description": "Kadokawa-owned digital publisher releasing weekly pre-publication light novel parts and DRM-free EPUB editions.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "PRE-PUBS",
+    "MODERN-UI"
+  ],
+  "features": [
+    "DRM-free",
+    "Pre-pubs",
+    "Mobile app",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-10",
+  "status": "active"
+}

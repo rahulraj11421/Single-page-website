@@ -1,0 +1,23 @@
+{
+  "name": "Kamui Cosplay",
+  "slug": "kamui-cosplay",
+  "url": "https://www.kamuicosplay.com/",
+  "category": "cosplay",
+  "description": "Renowned resource for EVA foam armor patterns, LED electronics tutorials, and downloadable cosplay crafting books.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "OFFICIAL"
+  ],
+  "features": [
+    "Pattern library",
+    "Global shipping",
+    "Tutorials",
+    "Creator direct"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-03",
+  "status": "active"
+}

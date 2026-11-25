@@ -1,0 +1,23 @@
+{
+  "name": "GOG.com (Japanese & VN)",
+  "slug": "gog-japanese",
+  "url": "https://www.gog.com/en/games?tags=anime",
+  "category": "download",
+  "description": "CD PROJEKT DRM-free digital storefront providing offline installers for classic Japanese RPGs and visual novels.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "DRM-free",
+    "Direct download",
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-22",
+  "status": "active"
+}

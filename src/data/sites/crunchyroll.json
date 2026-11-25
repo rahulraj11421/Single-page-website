@@ -1,0 +1,27 @@
+{
+  "name": "Crunchyroll",
+  "slug": "crunchyroll",
+  "url": "https://www.crunchyroll.com/",
+  "category": "anime",
+  "description": "Global anime streaming leader offering simulcasts within hours of Japanese broadcast alongside an extensive dubbed and subtitled catalog.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "SIMULCAST",
+    "DUB",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Dub friendly",
+    "Simulcast",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-15",
+  "dateUpdated": "2026-11-18",
+  "status": "active"
+}

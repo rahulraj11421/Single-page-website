@@ -1,0 +1,23 @@
+{
+  "name": "HoYoLAB",
+  "slug": "hoyolab",
+  "url": "https://www.hoyolab.com/",
+  "category": "gacha",
+  "description": "HoYoverse official community platform offering interactive world maps, daily check-ins, and build tools.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Wiki & DB",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-16",
+  "status": "active"
+}

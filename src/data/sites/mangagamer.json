@@ -1,0 +1,22 @@
+{
+  "name": "MangaGamer",
+  "slug": "mangagamer",
+  "url": "https://www.mangagamer.com/",
+  "category": "games",
+  "description": "Official digital distributor specializing in DRM-free English translations of Japanese mystery and romance visual novels.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE",
+    "18+"
+  ],
+  "features": [
+    "DRM-free",
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": true,
+  "icon": "",
+  "dateAdded": "2026-03-19",
+  "status": "active"
+}

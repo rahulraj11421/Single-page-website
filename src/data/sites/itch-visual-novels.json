@@ -1,0 +1,23 @@
+{
+  "name": "itch.io (Visual Novels)",
+  "slug": "itch-visual-novels",
+  "url": "https://itch.io/games/tag-visual-novel",
+  "category": "games",
+  "description": "Indie storefront hosting thousands of original English visual novels, jam entries, and DRM-free narrative games.",
+  "rank": 4,
+  "tags": [
+    "DRM-FREE",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "DRM-free",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-25",
+  "status": "active"
+}

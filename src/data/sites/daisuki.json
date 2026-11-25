@@ -1,0 +1,22 @@
+{
+  "name": "Daisuki",
+  "slug": "daisuki",
+  "url": "https://www.daisuki.net/",
+  "category": "anime",
+  "description": "Consortium streaming platform backed by Toei, Aniplex, Sunrise, TMS, and Asatsu-DK offering free global simulcasts.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "status": "dead",
+  "closedNote": "Discontinued on October 31, 2017."
+}

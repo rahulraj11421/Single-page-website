@@ -1,0 +1,22 @@
+{
+  "name": "Because.moe",
+  "slug": "because-moe",
+  "url": "https://because.moe/",
+  "category": "guides",
+  "description": "Legal anime streaming search guide showing which licensed platforms carry a given title across major regions.",
+  "rank": 2,
+  "tags": [
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Free tier",
+    "No account",
+    "Beginner friendly"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-05",
+  "status": "active"
+}

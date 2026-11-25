@@ -1,0 +1,22 @@
+{
+  "name": "SauceNAO",
+  "slug": "saucenao",
+  "url": "https://saucenao.com/",
+  "category": "tools",
+  "description": "High-precision reverse image lookup engine for locating original pixiv, Twitter, and manga artist sources.",
+  "rank": 3,
+  "tags": [
+    "FREE",
+    "HUB"
+  ],
+  "features": [
+    "No account",
+    "API available",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-24",
+  "status": "active"
+}

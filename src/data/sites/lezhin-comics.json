@@ -1,0 +1,21 @@
+{
+  "name": "Lezhin Comics",
+  "slug": "lezhin-comics",
+  "url": "https://www.lezhinus.com/",
+  "category": "manhwa",
+  "description": "South Korean digital comic publisher offering official English translations across drama, thriller, and romance genres.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Vertical scroll",
+    "Mobile app",
+    "Simulpub"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-12",
+  "status": "active"
+}

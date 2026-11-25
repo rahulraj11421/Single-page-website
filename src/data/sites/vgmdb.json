@@ -1,0 +1,21 @@
+{
+  "name": "VGMdb",
+  "slug": "vgmdb",
+  "url": "https://vgmdb.net/",
+  "category": "music",
+  "description": "Comprehensive discography database documenting anime soundtracks, game OSTs, composers, catalog numbers, and tracklists.",
+  "rank": 4,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Official OST",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-14",
+  "status": "active"
+}

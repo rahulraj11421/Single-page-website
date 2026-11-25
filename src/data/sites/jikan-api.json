@@ -1,0 +1,23 @@
+{
+  "name": "Jikan API",
+  "slug": "jikan-api",
+  "url": "https://jikan.moe/",
+  "category": "tools",
+  "description": "Open-source RESTful API powering thousands of community anime bots, dashboards, and research projects.",
+  "rank": 4,
+  "tags": [
+    "OPEN-SOURCE",
+    "FREE"
+  ],
+  "features": [
+    "Open source",
+    "No account",
+    "API available",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-18",
+  "status": "active"
+}

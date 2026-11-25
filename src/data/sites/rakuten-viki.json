@@ -1,0 +1,26 @@
+{
+  "name": "Rakuten Viki",
+  "slug": "rakuten-viki",
+  "url": "https://www.viki.com/",
+  "category": "drama",
+  "description": "Licensed Asian drama and film streaming service known for timed volunteer-curated subtitles across 150+ languages.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "HUB",
+    "SOFT-SUB",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Modern UI",
+    "Mobile app",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-22",
+  "status": "active"
+}

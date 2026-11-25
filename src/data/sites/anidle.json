@@ -1,0 +1,22 @@
+{
+  "name": "Anidle",
+  "slug": "anidle",
+  "url": "https://anidle.net/",
+  "category": "quiz",
+  "description": "Wordle-style daily deduction puzzle where players narrow down a mystery anime by year, studio, genres, and score.",
+  "rank": 4,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Free tier",
+    "No account",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-11",
+  "status": "active"
+}

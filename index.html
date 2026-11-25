@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KuraIndex – Curated Anime, Manga &amp; Otaku Tools Directory</title>
+    <meta
+      name="description"
+      content="Explore KuraIndex, a fast curated index of the best legal anime, manga, manhwa, light novel, music, schedule, and database platforms."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="KuraIndex" />
+    <meta property="og:title" content="KuraIndex – Curated Anime, Manga &amp; Otaku Tools Directory" />
+    <meta
+      property="og:description"
+      content="Explore KuraIndex, a fast curated index of the best legal anime, manga, manhwa, light novel, music, schedule, and database platforms."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="KuraIndex – Curated Anime, Manga &amp; Otaku Tools Directory" />
+    <meta
+      name="twitter:description"
+      content="Explore KuraIndex, a fast curated index of the best legal anime, manga, manhwa, light novel, music, schedule, and database platforms."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..600&family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('kuraindex_theme');
+          if (saved === 'light') {
+            document.documentElement.classList.remove('dark');
+          } else {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-[#f7f7f5] text-zinc-900 dark:bg-[#0f0f0f] dark:text-zinc-100 antialiased selection:bg-[#e5484d]/20 selection:text-[#e5484d]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

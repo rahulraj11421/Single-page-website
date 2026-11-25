@@ -1,0 +1,21 @@
+{
+  "name": "NIJISANJI Official",
+  "slug": "nijisanji-official",
+  "url": "https://www.nijisanji.jp/en",
+  "category": "vtuber",
+  "description": "ANYCOLOR official talent directory, concert schedule, and merchandise hub for NIJISANJI and NIJISANJI EN livers.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Live schedule",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-14",
+  "status": "active"
+}

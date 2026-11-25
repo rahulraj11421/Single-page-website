@@ -1,0 +1,23 @@
+{
+  "name": "Shonen Jump App",
+  "slug": "shonen-jump-app",
+  "url": "https://www.viz.com/shonenjump",
+  "category": "apps",
+  "description": "VIZ Media mobile reader app providing the latest chapters free and full vault access with offline downloads.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "iOS & Android",
+    "Offline sync",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-09",
+  "status": "active"
+}

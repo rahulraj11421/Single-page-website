@@ -1,0 +1,20 @@
+{
+  "name": "Arda Wigs",
+  "slug": "arda-wigs",
+  "url": "https://arda-wigs.com/",
+  "category": "cosplay",
+  "description": "Cosplayer-run specialty supplier offering heat-resistant styling wigs, color charts, and styling video guides.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Global shipping",
+    "Tutorials"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-07",
+  "status": "active"
+}

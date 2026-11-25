@@ -1,0 +1,23 @@
+{
+  "name": "Funimation",
+  "slug": "funimation",
+  "url": "https://www.funimation.com/",
+  "category": "anime",
+  "description": "Historic North American anime distributor and streaming service founded in 1994; merged into Crunchyroll and shut down in April 2024.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL",
+    "DUB"
+  ],
+  "features": [
+    "Dub friendly",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "dateUpdated": "2026-06-01",
+  "status": "dead",
+  "closedNote": "Shut down April 2, 2024 following full catalog consolidation into Crunchyroll."
+}

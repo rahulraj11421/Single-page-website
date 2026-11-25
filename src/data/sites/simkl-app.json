@@ -1,0 +1,22 @@
+{
+  "name": "Simkl App",
+  "slug": "simkl-app",
+  "url": "https://simkl.com/apps/",
+  "category": "apps",
+  "description": "Cross-platform desktop, TV, and mobile tracker synchronizing anime watch history with streaming players.",
+  "rank": 5,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "iOS & Android",
+    "Modern UI",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-06",
+  "status": "active"
+}

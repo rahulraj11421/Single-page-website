@@ -1,0 +1,23 @@
+{
+  "name": "Tappytoon",
+  "slug": "tappytoon",
+  "url": "https://www.tappytoon.com/",
+  "category": "manhwa",
+  "description": "Official licensed manhwa and webtoon service specializing in high-resolution Korean romance, fantasy, and drama series.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "SIMULPUB"
+  ],
+  "features": [
+    "Vertical scroll",
+    "Mobile app",
+    "Modern UI",
+    "Simulpub"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-01",
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Steam (Anime & Visual Novels)",
+  "slug": "steam-anime",
+  "url": "https://store.steampowered.com/tags/en/Anime/",
+  "category": "games",
+  "description": "Primary PC distribution storefront for official JRPGs, anime fighters, and localized Japanese visual novels.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "HUB",
+    "MODERN-UI"
+  ],
+  "features": [
+    "PC client",
+    "Localization",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-14",
+  "status": "active"
+}

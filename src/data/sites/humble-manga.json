@@ -1,0 +1,22 @@
+{
+  "name": "Humble Bundle (Manga & Books)",
+  "slug": "humble-manga",
+  "url": "https://www.humblebundle.com/books",
+  "category": "download",
+  "description": "Licensed charity book bundles frequently featuring DRM-free CBZ/PDF/EPUB collections from Kodansha and Seven Seas.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE"
+  ],
+  "features": [
+    "DRM-free",
+    "High-res",
+    "Direct download"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-01",
+  "status": "active"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "WEBTOON",
+  "slug": "webtoon",
+  "url": "https://www.webtoons.com/",
+  "category": "manhwa",
+  "description": "NAVER global vertical-scroll comics platform featuring official Korean manhwa, Canvas originals, and daily updates.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "HUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Vertical scroll",
+    "Free tier",
+    "Mobile app",
+    "Modern UI",
+    "Simulpub"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-12",
+  "status": "active"
+}

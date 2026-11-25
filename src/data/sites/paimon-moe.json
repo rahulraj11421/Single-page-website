@@ -1,0 +1,24 @@
+{
+  "name": "Paimon.moe",
+  "slug": "paimon-moe",
+  "url": "https://paimon.moe/",
+  "category": "gacha",
+  "description": "Open-source wish counter, ascension planner, and timeline calculator for Genshin Impact players.",
+  "rank": 4,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Banner planner",
+    "Free tier",
+    "Modern UI",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-29",
+  "status": "active"
+}

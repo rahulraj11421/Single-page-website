@@ -1,0 +1,23 @@
+{
+  "name": "Youku Animation",
+  "slug": "youku-animation",
+  "url": "https://www.youtube.com/@YOUKUANIMATION",
+  "category": "donghua",
+  "description": "Official Youku YouTube channel publishing licensed action, xianxia, and martial arts donghua series with multi-language subs.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "FREE",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-19",
+  "status": "active"
+}

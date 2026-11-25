@@ -1,0 +1,27 @@
+{
+  "name": "Holodex",
+  "slug": "holodex",
+  "url": "https://holodex.net/",
+  "category": "vtuber",
+  "description": "Open-source multi-stream viewer, live schedule aggregator, and clip indexer supporting thousands of VTuber channels.",
+  "rank": 1,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Live schedule",
+    "Multi-stream",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-27",
+  "dateUpdated": "2026-11-23",
+  "status": "active"
+}

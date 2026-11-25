@@ -1,0 +1,22 @@
+{
+  "name": "Anime Primer (MAL Guides)",
+  "slug": "mal-beginner-guides",
+  "url": "https://myanimelist.net/featured",
+  "category": "guides",
+  "description": "Curated genre introductions, seasonal previews, and beginner recommendation articles written by longtime reviewers.",
+  "rank": 5,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Editorial",
+    "Free tier",
+    "No account",
+    "Beginner friendly"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-06-22",
+  "status": "active"
+}

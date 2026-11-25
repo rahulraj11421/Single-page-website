@@ -1,0 +1,26 @@
+{
+  "name": "Bilibili.tv",
+  "slug": "bilibili-tv",
+  "url": "https://www.bilibili.tv/",
+  "category": "donghua",
+  "description": "International portal of Bilibili featuring licensed Chinese animation, seasonal anime, and multilingual community subtitles.",
+  "rank": 1,
+  "tags": [
+    "OFFICIAL",
+    "HUB",
+    "MODERN-UI",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Simulcast",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-20",
+  "status": "active"
+}

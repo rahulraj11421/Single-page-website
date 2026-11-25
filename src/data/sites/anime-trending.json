@@ -1,0 +1,25 @@
+{
+  "name": "Anime Trending",
+  "slug": "anime-trending",
+  "url": "https://www.anitrendz.com/",
+  "category": "trends",
+  "description": "Weekly community-voted top anime, character, ship, and soundtrack charts running continuously since 2013.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Weekly charts",
+    "Free tier",
+    "Modern UI",
+    "No account",
+    "Editorial"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-02",
+  "status": "active"
+}

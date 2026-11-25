@@ -1,0 +1,23 @@
+{
+  "name": "r/anime Watch Order Wiki",
+  "slug": "r-anime-watch-order",
+  "url": "https://www.reddit.com/r/anime/wiki/watch_order/",
+  "category": "guides",
+  "description": "Community-vetted viewing order roadmaps for complex franchises including Fate, Monogatari, Gundam, and Toaru.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Watch orders",
+    "Free tier",
+    "No account",
+    "Beginner friendly"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-05",
+  "status": "active"
+}

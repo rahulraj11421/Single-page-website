@@ -1,0 +1,22 @@
+{
+  "name": "OTOTOY",
+  "slug": "ototoy",
+  "url": "https://ototoy.jp/",
+  "category": "music",
+  "description": "Japanese hi-res lossless digital music store selling official anime OSTs, anisong singles, and doujin albums in FLAC/ALAC.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "LOSSLESS",
+    "DRM-FREE"
+  ],
+  "features": [
+    "Lossless",
+    "Official OST"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-22",
+  "status": "active"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tapas",
+  "slug": "tapas",
+  "url": "https://tapas.io/",
+  "category": "manhwa",
+  "description": "Kakao Entertainment English platform for serialized romance fantasy manhwa, action webcomics, and web novels.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Vertical scroll",
+    "Free tier",
+    "Mobile app",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-04",
+  "status": "active"
+}

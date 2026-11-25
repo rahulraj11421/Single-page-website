@@ -1,0 +1,20 @@
+{
+  "name": "MyAnimeList Trivia & Games",
+  "slug": "mal-quizzes",
+  "url": "https://myanimelist.net/featured/quiz",
+  "category": "quiz",
+  "description": "Editorial personality and knowledge quizzes published by MyAnimeList writers covering seasonal and classic franchises.",
+  "rank": 5,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-06-15",
+  "status": "active"
+}

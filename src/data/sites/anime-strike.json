@@ -1,0 +1,21 @@
+{
+  "name": "Anime Strike",
+  "slug": "anime-strike",
+  "url": "https://www.amazon.com/b?node=16268352011",
+  "category": "anime",
+  "description": "Amazon Prime Video add-on channel for seasonal anime exclusives launched in 2017 before folding into standard Prime Video.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Soft-sub",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "status": "dead",
+  "closedNote": "Closed as a separate paid add-on in January 2018."
+}

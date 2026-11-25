@@ -1,0 +1,22 @@
+{
+  "name": "Sakugablog",
+  "slug": "sakugablog",
+  "url": "https://blog.sakugabooru.com/",
+  "category": "trends",
+  "description": "In-depth animation production analysis, key animator spotlights, and seasonal industry trend breakdowns.",
+  "rank": 3,
+  "tags": [
+    "FREE",
+    "HUB"
+  ],
+  "features": [
+    "Free tier",
+    "No account",
+    "Editorial"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-10",
+  "status": "active"
+}

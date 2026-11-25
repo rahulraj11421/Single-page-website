@@ -1,0 +1,21 @@
+{
+  "name": "r/amv",
+  "slug": "r-amv",
+  "url": "https://www.reddit.com/r/amv/",
+  "category": "amv",
+  "description": "Active Reddit community for sharing original anime music videos, editing breakdowns, and convention contest winners.",
+  "rank": 3,
+  "tags": [
+    "FREE",
+    "HUB"
+  ],
+  "features": [
+    "Curated picks",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-23",
+  "status": "active"
+}

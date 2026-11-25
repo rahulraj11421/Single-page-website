@@ -1,0 +1,22 @@
+{
+  "name": "Omoide",
+  "slug": "omoide-app",
+  "url": "https://github.com/topics/anilist-client",
+  "category": "apps",
+  "description": "Directory of open-source, privacy-respecting community tracker clients syncing with AniList, Kitsu, and Simkl.",
+  "rank": 4,
+  "tags": [
+    "OPEN-SOURCE",
+    "FREE"
+  ],
+  "features": [
+    "Open source",
+    "Offline sync",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-20",
+  "status": "active"
+}

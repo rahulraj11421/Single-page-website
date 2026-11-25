@@ -1,0 +1,24 @@
+{
+  "name": "Netflix Anime",
+  "slug": "netflix-anime",
+  "url": "https://www.netflix.com/browse/genre/7424",
+  "category": "anime",
+  "description": "Licensed seasonal series, Studio Ghibli international streaming, and original co-productions with multilingual dubs and subtitles.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI",
+    "DUB",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Dub friendly",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-18",
+  "status": "active"
+}

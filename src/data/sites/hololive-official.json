@@ -1,0 +1,23 @@
+{
+  "name": "hololive production",
+  "slug": "hololive-official",
+  "url": "https://hololivepro.com/en/",
+  "category": "vtuber",
+  "description": "Official portal for Cover Corp virtual talent agency featuring JP, EN, ID, and DEV_IS rosters, music releases, and events.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Live schedule",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-09",
+  "status": "active"
+}

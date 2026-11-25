@@ -1,0 +1,22 @@
+{
+  "name": "MangaUpdates (Baka-Updates)",
+  "slug": "mangaupdates",
+  "url": "https://www.mangaupdates.com/",
+  "category": "database",
+  "description": "Essential bibliographic index tracking manga, manhwa, and novel serializations, English license status, and creator bibliographies.",
+  "rank": 5,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "API available",
+    "Staff credits",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-02",
+  "status": "active"
+}

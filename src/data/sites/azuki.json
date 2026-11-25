@@ -1,0 +1,24 @@
+{
+  "name": "Azuki",
+  "slug": "azuki",
+  "url": "https://www.azuki.co/",
+  "category": "manga",
+  "description": "Independent licensed manga subscription app curating Kodansha, Kaiten Books, Star Fruit Books, and Glacier Bay catalogs.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "MODERN-UI",
+    "SIMULPUB"
+  ],
+  "features": [
+    "Simulpub",
+    "Free tier",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-15",
+  "status": "active"
+}

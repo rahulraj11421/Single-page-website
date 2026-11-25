@@ -1,0 +1,23 @@
+{
+  "name": "HoloTools / VStats",
+  "slug": "vstats",
+  "url": "https://www.vstats.jp/",
+  "category": "vtuber",
+  "description": "Real-time VTuber livestream schedule, subscriber milestone tracker, and concurrent viewer analytics board.",
+  "rank": 5,
+  "tags": [
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Live schedule",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-16",
+  "status": "active"
+}

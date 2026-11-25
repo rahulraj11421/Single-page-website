@@ -1,0 +1,22 @@
+{
+  "name": "AnimeMusicVideos.org",
+  "slug": "amv-org",
+  "url": "https://www.animemusicvideos.org/",
+  "category": "amv",
+  "description": "Historic non-profit archive and database of Anime Music Videos cataloged by editor, anime footage, and music track since 2000.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Contest archive",
+    "Free tier",
+    "Creator profiles"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-08",
+  "status": "active"
+}

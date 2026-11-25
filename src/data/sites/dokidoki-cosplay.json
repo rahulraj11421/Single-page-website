@@ -1,0 +1,19 @@
+{
+  "name": "DokiDoki Cosplay",
+  "slug": "dokidoki-cosplay",
+  "url": "https://dokidokicos.com/",
+  "category": "cosplay",
+  "description": "Well-known costume retailer categorized by craftsmanship tiers (N, R, SR, SSR) with international fulfillment.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Global shipping"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-20",
+  "status": "active"
+}

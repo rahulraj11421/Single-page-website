@@ -1,0 +1,24 @@
+{
+  "name": "Anime Corner",
+  "slug": "anime-corner",
+  "url": "https://animecorner.me/",
+  "category": "trends",
+  "description": "Popular weekly episode polls, seasonal rankings, and anime industry news aggregation with broad global fan participation.",
+  "rank": 2,
+  "tags": [
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Weekly charts",
+    "Free tier",
+    "Modern UI",
+    "No account",
+    "Editorial"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-15",
+  "status": "active"
+}

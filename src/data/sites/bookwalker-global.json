@@ -1,0 +1,21 @@
+{
+  "name": "BOOKWALKER Global",
+  "slug": "bookwalker-global",
+  "url": "https://global.bookwalker.jp/",
+  "category": "manga",
+  "description": "Kadokawa international digital bookstore offering official licensed manga volumes, exclusives, and frequent publisher sales.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "HUB"
+  ],
+  "features": [
+    "Mobile app",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-01",
+  "status": "active"
+}

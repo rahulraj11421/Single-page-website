@@ -1,0 +1,20 @@
+{
+  "name": "Sporcle Anime Quizzes",
+  "slug": "sporcle-anime",
+  "url": "https://www.sporcle.com/games/subcategory/anime",
+  "category": "quiz",
+  "description": "Timed community trivia quizzes covering anime characters, studios, opening themes, and classic manga series.",
+  "rank": 3,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-04-08",
+  "status": "active"
+}

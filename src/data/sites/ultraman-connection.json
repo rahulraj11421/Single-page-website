@@ -1,0 +1,22 @@
+{
+  "name": "Tsuburaya Imagination / Ultraman Connection",
+  "slug": "ultraman-connection",
+  "url": "https://www.ultramanconnection.com/",
+  "category": "drama",
+  "description": "Tsuburaya Productions official English portal for Ultraman series simulcasts, live events, and tokusatsu news.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "SIMULCAST"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-06-11",
+  "status": "active"
+}

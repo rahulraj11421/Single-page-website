@@ -1,0 +1,23 @@
+{
+  "name": "MAL-Sync",
+  "slug": "mal-sync",
+  "url": "https://malsync.moe/",
+  "category": "tools",
+  "description": "Open-source browser extension that automatically syncs watch and read progress with MyAnimeList, AniList, Kitsu, and Simkl.",
+  "rank": 1,
+  "tags": [
+    "OPEN-SOURCE",
+    "MODERN-UI",
+    "FREE"
+  ],
+  "features": [
+    "Open source",
+    "Modern UI",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-28",
+  "status": "active"
+}

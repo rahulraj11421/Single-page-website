@@ -1,0 +1,24 @@
+{
+  "name": "HIDIVE",
+  "slug": "hidive",
+  "url": "https://www.hidive.com/",
+  "category": "anime",
+  "description": "Sentai Filmworks streaming platform specializing in seasonal exclusives, uncensored home-video versions, and classic OVA catalogs.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "SIMULCAST",
+    "DUB",
+    "SOFT-SUB"
+  ],
+  "features": [
+    "Soft-sub",
+    "Dub friendly",
+    "Simulcast"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-02-10",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anime Expo AMV Contest Archive",
+  "slug": "ax-amv-archive",
+  "url": "https://www.anime-expo.org/ax/amv-contest/",
+  "category": "amv",
+  "description": "Official Anime Expo AMV Competition portal listing finalists, category winners, and submission rules each summer.",
+  "rank": 4,
+  "tags": [
+    "OFFICIAL",
+    "FREE"
+  ],
+  "features": [
+    "Contest archive",
+    "Curated picks",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-27",
+  "status": "active"
+}

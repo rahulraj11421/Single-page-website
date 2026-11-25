@@ -1,0 +1,26 @@
+{
+  "name": "AniList",
+  "slug": "anilist",
+  "url": "https://anilist.co/",
+  "category": "database",
+  "description": "Modern anime and manga tracking platform with custom scoring systems, social activity feeds, and an open GraphQL API.",
+  "rank": 2,
+  "tags": [
+    "MODERN-UI",
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "API available",
+    "Modern UI",
+    "List tracking",
+    "Staff credits",
+    "Free tier"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-06",
+  "dateUpdated": "2026-11-22",
+  "status": "active"
+}

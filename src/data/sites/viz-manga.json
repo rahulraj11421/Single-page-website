@@ -1,0 +1,23 @@
+{
+  "name": "VIZ Manga",
+  "slug": "viz-manga",
+  "url": "https://www.viz.com/vizmanga",
+  "category": "manga",
+  "description": "Official VIZ Media subscription and digital storefront featuring Shonen Jump, Shojo Beat, and Sunday library catalogs.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "SIMULPUB",
+    "HUB"
+  ],
+  "features": [
+    "Simulpub",
+    "Free tier",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-19",
+  "status": "active"
+}

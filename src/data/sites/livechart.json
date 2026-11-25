@@ -1,0 +1,26 @@
+{
+  "name": "LiveChart.me",
+  "slug": "livechart",
+  "url": "https://www.livechart.me/",
+  "category": "schedule",
+  "description": "Clean seasonal anime chart and real-time episode broadcast timetable with automatic local timezone conversion and legal stream links.",
+  "rank": 1,
+  "tags": [
+    "MODERN-UI",
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Live countdown",
+    "Timezone sync",
+    "Modern UI",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-09",
+  "dateUpdated": "2026-11-21",
+  "status": "active"
+}

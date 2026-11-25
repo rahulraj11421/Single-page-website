@@ -1,0 +1,23 @@
+{
+  "name": "Anime News Network",
+  "slug": "anime-news-network",
+  "url": "https://www.animenewsnetwork.com/",
+  "category": "trends",
+  "description": "Long-standing English-language newsroom and encyclopedia covering licensing announcements, box office charts, and industry trends.",
+  "rank": 4,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Weekly charts",
+    "Free tier",
+    "No account",
+    "Editorial"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-21",
+  "status": "active"
+}

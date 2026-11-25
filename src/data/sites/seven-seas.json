@@ -1,0 +1,19 @@
+{
+  "name": "Seven Seas Entertainment",
+  "slug": "seven-seas",
+  "url": "https://sevenseasentertainment.com/",
+  "category": "novel",
+  "description": "Independent English publisher of Airship light novels, danmei editions, and classic Japanese fantasy series.",
+  "rank": 3,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-08",
+  "status": "active"
+}

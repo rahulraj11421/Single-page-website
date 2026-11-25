@@ -1,0 +1,23 @@
+{
+  "name": "THE FIRST TAKE",
+  "slug": "the-first-take",
+  "url": "https://www.youtube.com/@The_FirstTake",
+  "category": "music",
+  "description": "Official Sony Music YouTube channel hosting one-take live studio performances by leading anime theme artists.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Official OST",
+    "Free tier",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-14",
+  "status": "active"
+}

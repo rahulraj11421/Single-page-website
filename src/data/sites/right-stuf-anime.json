@@ -1,0 +1,21 @@
+{
+  "name": "Right Stuf Anime (Storefront)",
+  "slug": "right-stuf-anime",
+  "url": "https://www.rightstufanime.com/",
+  "category": "download",
+  "description": "Iconic mail-order and digital anime retailer operating since 1987 before merging into the Crunchyroll Store.",
+  "rank": 99,
+  "tags": [
+    "OFFICIAL",
+    "HUB"
+  ],
+  "features": [
+    "Localization"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-01",
+  "status": "dead",
+  "closedNote": "Independent storefront closed October 10, 2023; folded into Crunchyroll Store."
+}

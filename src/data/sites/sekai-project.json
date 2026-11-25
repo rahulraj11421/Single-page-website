@@ -1,0 +1,20 @@
+{
+  "name": "Sekai Project",
+  "slug": "sekai-project",
+  "url": "https://sekaiproject.com/",
+  "category": "games",
+  "description": "Official publisher bringing Japanese visual novels and doujin games to global PC and console storefronts.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL"
+  ],
+  "features": [
+    "Localization",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-30",
+  "status": "active"
+}

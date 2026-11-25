@@ -1,0 +1,21 @@
+{
+  "name": "Cross Infinite World",
+  "slug": "cross-infinite-world",
+  "url": "https://www.crossinfworld.com/",
+  "category": "novel",
+  "description": "Boutique digital publisher licensing josei, shojo, and villainess light novels with DRM-free storefront distribution.",
+  "rank": 5,
+  "tags": [
+    "OFFICIAL",
+    "DRM-FREE"
+  ],
+  "features": [
+    "DRM-free",
+    "Modern UI"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-11-12",
+  "status": "active"
+}

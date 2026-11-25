@@ -1,0 +1,22 @@
+{
+  "name": "Where to Watch Manga (Whakoom / Official Index)",
+  "slug": "simulpub-guide",
+  "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php",
+  "category": "guides",
+  "description": "Editorial encyclopedia and release-order reference for tracking adaptations, OVAs, theatrical films, and spin-offs.",
+  "rank": 4,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Watch orders",
+    "Editorial",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-05-19",
+  "status": "active"
+}

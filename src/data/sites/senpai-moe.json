@@ -1,0 +1,21 @@
+{
+  "name": "Senpai.moe",
+  "slug": "senpai-moe",
+  "url": "https://www.senpai.moe/",
+  "category": "schedule",
+  "description": "Minimalist weekly airing grid highlighting exact broadcast stations, streaming availability, and episode numbers.",
+  "rank": 4,
+  "tags": [
+    "FREE"
+  ],
+  "features": [
+    "Timezone sync",
+    "Free tier",
+    "No account"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-29",
+  "status": "active"
+}

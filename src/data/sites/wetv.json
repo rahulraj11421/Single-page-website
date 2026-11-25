@@ -1,0 +1,25 @@
+{
+  "name": "WeTV (Tencent Video)",
+  "slug": "wetv",
+  "url": "https://wetv.vip/",
+  "category": "donghua",
+  "description": "Tencent Video international service streaming flagship 3D and 2D donghua productions with official English subtitles.",
+  "rank": 2,
+  "tags": [
+    "OFFICIAL",
+    "SIMULCAST",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Soft-sub",
+    "Free tier",
+    "Simulcast",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-11",
+  "status": "active"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "AMVNews",
+  "slug": "amvnews",
+  "url": "https://amvnews.ru/",
+  "category": "amv",
+  "description": "Long-running international AMV portal hosting annual Big Contest entries, editor rankings, and curated showcases.",
+  "rank": 2,
+  "tags": [
+    "HUB",
+    "FREE"
+  ],
+  "features": [
+    "Contest archive",
+    "Curated picks",
+    "Free tier",
+    "Creator profiles"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-03-16",
+  "status": "active"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "r/anime",
+  "slug": "r-anime",
+  "url": "https://www.reddit.com/r/anime/",
+  "category": "forums",
+  "description": "Largest English-speaking anime forum hosting automated episode discussion threads, seasonal surveys, and rewatch clubs.",
+  "rank": 1,
+  "tags": [
+    "HUB",
+    "FREE",
+    "MODERN-UI"
+  ],
+  "features": [
+    "Episode threads",
+    "Moderated",
+    "Free tier",
+    "Modern UI",
+    "Mobile app"
+  ],
+  "isLegal": true,
+  "isNsfw": false,
+  "icon": "",
+  "dateAdded": "2026-01-13",
+  "status": "active"
+}
